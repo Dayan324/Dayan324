@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dayan324
-- 👀 I’m interested in progrraming and sports
+- 👀 I’m interested in programing and sports
 - 🌱 I’m currently learning R and Phyton
 - 💞️ I’m looking to collaborate on GIS
 
